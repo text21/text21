@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<!-- Top Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20Everyone!&fontAlign=50&fontAlignY=38&color=0:020617,50:1d4ed8,100:3b82f6&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br/>
@@ -83,7 +82,7 @@
 
 ## ✨ Featured Projects
 
-- ** Rewind** - A powerful, production-ready lag compensation framework for Roblox games. Handle hit validation, projectile traces, and melee attacks with server-authoritative precision.
+- **Rewind** - A powerful, production-ready lag compensation framework for Roblox games. Handle hit validation, projectile traces, and melee attacks with server-authoritative precision.
 - **Quantum** - Quantum is a spring-driven tween engine for Roblox that unifies UI animation, camera & movement feel, and lightweight physics-style behaviours under one clean API.
 - **SlotCore** - Multi-slot save framework for Roblox. Session-safe, adapter-style, with middleware, migrations, leaderstats, admin console, and global leaderboards.
 - **SafeCall** - SafeCall is a lightweight, great error handling wrapper for Roblox Lua. It simplifies safe function execution by automatically handling errors, retries, async support, rate limiting, profiling, and more, reducing crashes and improving debugging.
