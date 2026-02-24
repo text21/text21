@@ -83,10 +83,10 @@
 
 ## ✨ Featured Projects
 
-- **Clover Legacy** — RPG systems, UI, networking, progression
-- **Discord Bots** — Moderation, utility, automation tools
-- **Roblox Frameworks** — Reusable systems for fast development
-- **UI Libraries** — Clean, modern, responsive interfaces
+- ** Rewind** - A powerful, production-ready lag compensation framework for Roblox games. Handle hit validation, projectile traces, and melee attacks with server-authoritative precision.
+- **Quantum** - Quantum is a spring-driven tween engine for Roblox that unifies UI animation, camera & movement feel, and lightweight physics-style behaviours under one clean API.
+- **SlotCore** - Multi-slot save framework for Roblox. Session-safe, adapter-style, with middleware, migrations, leaderstats, admin console, and global leaderboards.
+- **SafeCall** - SafeCall is a lightweight, great error handling wrapper for Roblox Lua. It simplifies safe function execution by automatically handling errors, retries, async support, rate limiting, profiling, and more, reducing crashes and improving debugging.
 
 ---
 
