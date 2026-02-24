@@ -72,13 +72,13 @@
 <div align="center">
 
 <a href="https://github.com/text21/Rewind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=text21&repo=Rewind&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=text21&repo=Rewind&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/text21/Quantum">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=text21&repo=Quantum&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=text21&repo=Quantum&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/text21/SlotCore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=text21&repo=SlotCore&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=text21&repo=SlotCore&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
