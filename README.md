@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20Everyone!&fontAlign=50&fontAlignY=38&color=0:020617,50:1d4ed8,100:3b82f6&fontColor=ffffff&animation=fadeIn" width="100%" />
@@ -28,8 +26,6 @@
   <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Discord-.devtext-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
 
 </div>
 
@@ -68,21 +64,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=text21&theme=tokyonight&hide_border=true" />
-
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=text21&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## ✨ Featured Projects
 
-- **Rewind** - A powerful, production-ready lag compensation framework for Roblox games. Handle hit validation, projectile traces, and melee attacks with server-authoritative precision.
-- **Quantum** - Quantum is a spring-driven tween engine for Roblox that unifies UI animation, camera & movement feel, and lightweight physics-style behaviours under one clean API.
-- **SlotCore** - Multi-slot save framework for Roblox. Session-safe, adapter-style, with middleware, migrations, leaderstats, admin console, and global leaderboards.
-- **SafeCall** - SafeCall is a lightweight, great error handling wrapper for Roblox Lua. It simplifies safe function execution by automatically handling errors, retries, async support, rate limiting, profiling, and more, reducing crashes and improving debugging.
+- **Rewind** — A powerful, production-ready lag compensation framework for Roblox games with server-authoritative hit validation, projectile traces, and melee precision.
+- **Quantum** — A spring-driven tween engine for Roblox that unifies UI animation, camera/movement feel, and lightweight physics-style behaviours under one clean API.
+- **SlotCore** — A multi-slot save framework for Roblox with session safety, adapter-style architecture, middleware, migrations, leaderstats, admin console, and global leaderboards.
+- **SafeCall** — A lightweight error-handling wrapper for Roblox Lua with retries, async support, rate limiting, profiling, and safer execution patterns.
 
 ---
 
@@ -92,5 +85,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=text21&label=Profile%20Views&color=2563eb&style=for-the-badge" />
 
-</div>
+<br/><br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1d4ed8,100:3b82f6" width="100%" />
+
+</div>
