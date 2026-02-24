@@ -50,7 +50,7 @@
 
 ## 📌 About Me
 
-- 🎮 Roblox game development (Knit-based systems)
+- 🎮 Roblox game development
 - 🤖 Discord bot & app development
 - 🎨 UI/UX design + implementation
 - 🌐 Website development
