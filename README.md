@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated Typing Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+cool+systems%2C+frameworks%2C+UI%2C+and+tools.;Roblox+Developer+%7C+Discord+Bots+%7C+Web+Development.;Knit-based+systems+and+clean+developer+UX." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=Building+cool+systems%2C+frameworks%2C+UI%2C+and+tools.;Roblox+Developer+%7C+Discord+Bots+%7C+Web+Development.;Flexible-based+systems+and+clean+developer+UX." alt="Typing SVG" />
 
 </div>
 
