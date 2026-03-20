@@ -12,7 +12,7 @@
 
 ---
 
-## 💬 Let's Connect and have a Chat!
+## Let's Connect and have a Chat!
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## ✨ Featured
+## Featured
 
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1355548991651188917/1437792397496029346/IMG_7245.gif?ex=699e4cc4&is=699cfb44&hm=becad4beba3a91601fb804cdaf18a5ed3f3c01d6a0b1b2b4d7f5ae13ad553c29&=" width="520" />
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,html,css,python,vscode,git,github&perline=5" />
@@ -48,17 +48,17 @@
 
 ---
 
-## 📌 About Me
+## About Me
 
-- 🎮 Roblox game development
-- 🤖 Discord bot & app development
-- 🎨 UI/UX design + implementation
-- 🌐 Website development
-- 🧠 Building frameworks/tools for developers
+- Roblox game development
+- Discord bot & app development
+- UI/UX design + implementation
+- Website development
+- Building frameworks/tools for developers
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <br/>
@@ -67,7 +67,7 @@
 
 ---
 
-## 🧩 Featured Repo Cards
+## Featured Repo Cards
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ---
 
-## ✨ Featured Projects
+## Featured Projects
 
 - **Rewind** — A powerful, production-ready lag compensation framework for Roblox games with server-authoritative hit validation, projectile traces, and melee precision.
 - **Quantum** — A spring-driven tween engine for Roblox that unifies UI animation, camera/movement feel, and lightweight physics-style behaviours under one clean API.
@@ -94,7 +94,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/text21/text21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
